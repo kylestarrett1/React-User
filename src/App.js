@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
-import Card from './components/UI/Card';
+import AddUsers from "./components/NewUsers/AddUsers";
 
 function App() {
   return (
     <div>
-      <Card />
+      <AddUsers />
     </div>
   );
 }
